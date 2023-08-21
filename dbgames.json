@@ -1,0 +1,32 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "produto": "Jogo 1",
+      "descricao": "Descricão do Jogo 1",
+      "foto": "jogo1.png",
+      "preco": 100
+    },
+    {
+      "id": 2,
+      "produto": "Jogo 2",
+      "descricao": "Descricão do Jogo 2",
+      "foto": "jogo2.png",
+      "preco": 200
+    },
+    {
+      "id": "4",
+      "produto": "jogo 4",
+      "descricao": "Descrição do jogo 4",
+      "foto": "ghost-of-tsushima-na-pc-kiedy.webp",
+      "preco": 178
+    },
+    {
+      "id": "VH4gSPi",
+      "produto": "Jogo 3",
+      "descricao": "Descrição Jogo 3",
+      "foto": "jogo3.png",
+      "preco": 350
+    }
+  ]
+}
